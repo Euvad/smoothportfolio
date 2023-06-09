@@ -2,7 +2,7 @@ module.exports = {
   content: ['./src/**/*.{html,js}'],
   theme: {
     fontFamily: {
-      primary: 'Playfair Display',
+      primary: 'Roboto',
       secondary: 'Mulish',
     },
     screens: {
@@ -13,7 +13,7 @@ module.exports = {
     },
     extend: {
       colors: {
-        primary: '#0E1112',
+        primary: '#FFFFFF',
         grey: '#484B4B',
 
         accent: '#EEF7F9',
